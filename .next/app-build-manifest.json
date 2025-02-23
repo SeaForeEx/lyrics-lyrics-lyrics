@@ -1,43 +1,25 @@
 {
   "pages": {
-    "/_not-found/page": [
-      "static/chunks/webpack-55d064cb164b20f8.js",
-      "static/chunks/4bd1b696-20882bf820444624.js",
-      "static/chunks/517-fe882a976a10ccc2.js",
-      "static/chunks/main-app-a43f4e82a9a5cb0c.js",
-      "static/chunks/app/_not-found/page-0043d75de3bc49f5.js"
-    ],
     "/layout": [
-      "static/chunks/webpack-55d064cb164b20f8.js",
-      "static/chunks/4bd1b696-20882bf820444624.js",
-      "static/chunks/517-fe882a976a10ccc2.js",
-      "static/chunks/main-app-a43f4e82a9a5cb0c.js",
-      "static/css/4aafb64b720b6743.css",
-      "static/chunks/app/layout-0307baecc23aacba.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
     ],
     "/page": [
-      "static/chunks/webpack-55d064cb164b20f8.js",
-      "static/chunks/4bd1b696-20882bf820444624.js",
-      "static/chunks/517-fe882a976a10ccc2.js",
-      "static/chunks/main-app-a43f4e82a9a5cb0c.js",
-      "static/chunks/173-767e48b05c5f9370.js",
-      "static/chunks/app/page-3c06cb01916536ab.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
     ],
     "/artists/page": [
-      "static/chunks/webpack-55d064cb164b20f8.js",
-      "static/chunks/4bd1b696-20882bf820444624.js",
-      "static/chunks/517-fe882a976a10ccc2.js",
-      "static/chunks/main-app-a43f4e82a9a5cb0c.js",
-      "static/chunks/173-767e48b05c5f9370.js",
-      "static/chunks/app/artists/page-fa986e23b78a241f.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/artists/page.js"
     ],
     "/albums/page": [
-      "static/chunks/webpack-55d064cb164b20f8.js",
-      "static/chunks/4bd1b696-20882bf820444624.js",
-      "static/chunks/517-fe882a976a10ccc2.js",
-      "static/chunks/main-app-a43f4e82a9a5cb0c.js",
-      "static/chunks/173-767e48b05c5f9370.js",
-      "static/chunks/app/albums/page-4d36ac0142890b02.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/albums/page.js"
     ]
   }
 }
