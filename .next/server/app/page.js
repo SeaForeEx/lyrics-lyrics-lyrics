@@ -89,6 +89,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
+<<<<<<< HEAD
 /***/ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2Fcharlesbridgers%2Ffun-projects%2Flyrics-lyrics-lyrics%2Fapp%2Fglobal.css%22%2C%22ids%22%3A%5B%5D%7D&server=true!":
 /*!***************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2Fcharlesbridgers%2Ffun-projects%2Flyrics-lyrics-lyrics%2Fapp%2Fglobal.css%22%2C%22ids%22%3A%5B%5D%7D&server=true! ***!
@@ -109,6 +110,8 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
+=======
+>>>>>>> 8c4d5eeb423d62517ef3d6578d37e6dc8d775962
 /***/ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2Fcharlesbridgers%2Ffun-projects%2Flyrics-lyrics-lyrics%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fapp-dir%2Flink.js%22%2C%22ids%22%3A%5B%22__esModule%22%2C%22default%22%5D%7D&server=true!":
 /*!**************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2Fcharlesbridgers%2Ffun-projects%2Flyrics-lyrics-lyrics%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fapp-dir%2Flink.js%22%2C%22ids%22%3A%5B%22__esModule%22%2C%22default%22%5D%7D&server=true! ***!
