@@ -1,3 +1,5 @@
+import "./global.css";
+
 export const metadata = {
   title: "Lyrics Lyrics Lyrics",
   description: "Music Review Website",

@@ -89,6 +89,29 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
+<<<<<<< HEAD
+/***/ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2Fcharlesbridgers%2Ffun-projects%2Flyrics-lyrics-lyrics%2Fapp%2Fglobal.css%22%2C%22ids%22%3A%5B%5D%7D&server=true!":
+/*!***************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2Fcharlesbridgers%2Ffun-projects%2Flyrics-lyrics-lyrics%2Fapp%2Fglobal.css%22%2C%22ids%22%3A%5B%5D%7D&server=true! ***!
+  \***************************************************************************************************************************************************************************************************************************************************/
+/***/ (() => {
+
+
+
+/***/ }),
+
+/***/ "(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2Fcharlesbridgers%2Ffun-projects%2Flyrics-lyrics-lyrics%2Fapp%2Fglobal.css%22%2C%22ids%22%3A%5B%5D%7D&server=true!":
+/*!***************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2Fcharlesbridgers%2Ffun-projects%2Flyrics-lyrics-lyrics%2Fapp%2Fglobal.css%22%2C%22ids%22%3A%5B%5D%7D&server=true! ***!
+  \***************************************************************************************************************************************************************************************************************************************************/
+/***/ (() => {
+
+
+
+/***/ }),
+
+=======
+>>>>>>> 8c4d5eeb423d62517ef3d6578d37e6dc8d775962
 /***/ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2Fcharlesbridgers%2Ffun-projects%2Flyrics-lyrics-lyrics%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fapp-dir%2Flink.js%22%2C%22ids%22%3A%5B%22__esModule%22%2C%22default%22%5D%7D&server=true!":
 /*!**************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2FUsers%2Fcharlesbridgers%2Ffun-projects%2Flyrics-lyrics-lyrics%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fapp-dir%2Flink.js%22%2C%22ids%22%3A%5B%22__esModule%22%2C%22default%22%5D%7D&server=true! ***!
@@ -129,23 +152,14 @@ eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__w
 
 /***/ }),
 
-/***/ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=true!":
-/*!******************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=true! ***!
-  \******************************************************************************************************/
-/***/ (() => {
+/***/ "(rsc)/./app/global.css":
+/*!************************!*\
+  !*** ./app/global.css ***!
+  \************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-
-
-/***/ }),
-
-/***/ "(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=true!":
-/*!******************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=true! ***!
-  \******************************************************************************************************/
-/***/ (() => {
-
-
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (\"0052d40bb992\");\nif (false) {}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9hcHAvZ2xvYmFsLmNzcyIsIm1hcHBpbmdzIjoiOzs7O0FBQUEsaUVBQWUsY0FBYztBQUM3QixJQUFJLEtBQVUsRUFBRSxFQUF1QiIsInNvdXJjZXMiOlsiL1VzZXJzL2NoYXJsZXNicmlkZ2Vycy9mdW4tcHJvamVjdHMvbHlyaWNzLWx5cmljcy1seXJpY3MvYXBwL2dsb2JhbC5jc3MiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQgXCIwMDUyZDQwYmI5OTJcIlxuaWYgKG1vZHVsZS5ob3QpIHsgbW9kdWxlLmhvdC5hY2NlcHQoKSB9XG4iXSwibmFtZXMiOltdLCJpZ25vcmVMaXN0IjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(rsc)/./app/global.css\n");
 
 /***/ }),
 
@@ -156,7 +170,7 @@ eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__w
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ RootLayout),\n/* harmony export */   metadata: () => (/* binding */ metadata)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(rsc)/./node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n\nconst metadata = {\n    title: \"Lyrics Lyrics Lyrics\",\n    description: \"Music Review Website\"\n};\nfunction RootLayout({ children }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"html\", {\n        lang: \"en\",\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"body\", {\n            children: children\n        }, void 0, false, {\n            fileName: \"/Users/charlesbridgers/fun-projects/lyrics-lyrics-lyrics/app/layout.tsx\",\n            lineNumber: 13,\n            columnNumber: 7\n        }, this)\n    }, void 0, false, {\n        fileName: \"/Users/charlesbridgers/fun-projects/lyrics-lyrics-lyrics/app/layout.tsx\",\n        lineNumber: 12,\n        columnNumber: 5\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9hcHAvbGF5b3V0LnRzeCIsIm1hcHBpbmdzIjoiOzs7Ozs7OztBQUFPLE1BQU1BLFdBQVc7SUFDdEJDLE9BQU87SUFDUEMsYUFBYTtBQUNmLEVBQUU7QUFFYSxTQUFTQyxXQUFXLEVBQ2pDQyxRQUFRLEVBR1Q7SUFDQyxxQkFDRSw4REFBQ0M7UUFBS0MsTUFBSztrQkFDVCw0RUFBQ0M7c0JBQU1IOzs7Ozs7Ozs7OztBQUdiIiwic291cmNlcyI6WyIvVXNlcnMvY2hhcmxlc2JyaWRnZXJzL2Z1bi1wcm9qZWN0cy9seXJpY3MtbHlyaWNzLWx5cmljcy9hcHAvbGF5b3V0LnRzeCJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY29uc3QgbWV0YWRhdGEgPSB7XG4gIHRpdGxlOiBcIkx5cmljcyBMeXJpY3MgTHlyaWNzXCIsXG4gIGRlc2NyaXB0aW9uOiBcIk11c2ljIFJldmlldyBXZWJzaXRlXCIsXG59O1xuXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBSb290TGF5b3V0KHtcbiAgY2hpbGRyZW4sXG59OiB7XG4gIGNoaWxkcmVuOiBSZWFjdC5SZWFjdE5vZGU7XG59KSB7XG4gIHJldHVybiAoXG4gICAgPGh0bWwgbGFuZz1cImVuXCI+XG4gICAgICA8Ym9keT57Y2hpbGRyZW59PC9ib2R5PlxuICAgIDwvaHRtbD5cbiAgKTtcbn1cbiJdLCJuYW1lcyI6WyJtZXRhZGF0YSIsInRpdGxlIiwiZGVzY3JpcHRpb24iLCJSb290TGF5b3V0IiwiY2hpbGRyZW4iLCJodG1sIiwibGFuZyIsImJvZHkiXSwiaWdub3JlTGlzdCI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./app/layout.tsx\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ RootLayout),\n/* harmony export */   metadata: () => (/* binding */ metadata)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(rsc)/./node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _global_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./global.css */ \"(rsc)/./app/global.css\");\n\n\nconst metadata = {\n    title: \"Lyrics Lyrics Lyrics\",\n    description: \"Music Review Website\"\n};\nfunction RootLayout({ children }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"html\", {\n        lang: \"en\",\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"body\", {\n            children: children\n        }, void 0, false, {\n            fileName: \"/Users/charlesbridgers/fun-projects/lyrics-lyrics-lyrics/app/layout.tsx\",\n            lineNumber: 15,\n            columnNumber: 7\n        }, this)\n    }, void 0, false, {\n        fileName: \"/Users/charlesbridgers/fun-projects/lyrics-lyrics-lyrics/app/layout.tsx\",\n        lineNumber: 14,\n        columnNumber: 5\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9hcHAvbGF5b3V0LnRzeCIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7QUFBc0I7QUFFZixNQUFNQSxXQUFXO0lBQ3RCQyxPQUFPO0lBQ1BDLGFBQWE7QUFDZixFQUFFO0FBRWEsU0FBU0MsV0FBVyxFQUNqQ0MsUUFBUSxFQUdUO0lBQ0MscUJBQ0UsOERBQUNDO1FBQUtDLE1BQUs7a0JBQ1QsNEVBQUNDO3NCQUFNSDs7Ozs7Ozs7Ozs7QUFHYiIsInNvdXJjZXMiOlsiL1VzZXJzL2NoYXJsZXNicmlkZ2Vycy9mdW4tcHJvamVjdHMvbHlyaWNzLWx5cmljcy1seXJpY3MvYXBwL2xheW91dC50c3giXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFwiLi9nbG9iYWwuY3NzXCI7XG5cbmV4cG9ydCBjb25zdCBtZXRhZGF0YSA9IHtcbiAgdGl0bGU6IFwiTHlyaWNzIEx5cmljcyBMeXJpY3NcIixcbiAgZGVzY3JpcHRpb246IFwiTXVzaWMgUmV2aWV3IFdlYnNpdGVcIixcbn07XG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFJvb3RMYXlvdXQoe1xuICBjaGlsZHJlbixcbn06IHtcbiAgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZTtcbn0pIHtcbiAgcmV0dXJuIChcbiAgICA8aHRtbCBsYW5nPVwiZW5cIj5cbiAgICAgIDxib2R5PntjaGlsZHJlbn08L2JvZHk+XG4gICAgPC9odG1sPlxuICApO1xufVxuIl0sIm5hbWVzIjpbIm1ldGFkYXRhIiwidGl0bGUiLCJkZXNjcmlwdGlvbiIsIlJvb3RMYXlvdXQiLCJjaGlsZHJlbiIsImh0bWwiLCJsYW5nIiwiYm9keSJdLCJpZ25vcmVMaXN0IjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(rsc)/./app/layout.tsx\n");
 
 /***/ }),
 
