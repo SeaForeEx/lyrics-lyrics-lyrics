@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const Page = () => {
+const LyricsLyricsLyrics = () => {
   return (
     <>
       <h1>Welcome to LYRICS LYRICS LYRICS!</h1>
@@ -14,4 +14,4 @@ const Page = () => {
   );
 };
 
-export default Page;
+export default LyricsLyricsLyrics;

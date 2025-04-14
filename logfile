@@ -1,0 +1,71 @@
+2025-04-13 21:11:47.843 CDT [41667] LOG:  starting PostgreSQL 14.17 (Homebrew) on aarch64-apple-darwin24.2.0, compiled by Apple clang version 16.0.0 (clang-1600.0.26.6), 64-bit
+2025-04-13 21:11:47.844 CDT [41667] LOG:  listening on IPv6 address "::1", port 5432
+2025-04-13 21:11:47.844 CDT [41667] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-04-13 21:11:47.844 CDT [41667] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2025-04-13 21:11:47.845 CDT [41668] LOG:  database system was shut down at 2025-04-13 21:11:38 CDT
+2025-04-13 21:11:47.847 CDT [41667] LOG:  database system is ready to accept connections
+2025-04-13 21:12:07.724 CDT [42087] FATAL:  role "postgres" does not exist
+2025-04-13 23:27:41.544 CDT [43156] LOG:  invalid length of startup packet
+2025-04-13 23:27:42.596 CDT [43157] LOG:  invalid length of startup packet
+2025-04-13 23:27:42.599 CDT [43160] LOG:  invalid length of startup packet
+2025-04-13 23:27:42.601 CDT [43161] LOG:  invalid length of startup packet
+2025-04-13 23:27:43.247 CDT [43164] LOG:  invalid length of startup packet
+2025-04-13 23:28:35.686 CDT [43233] FATAL:  role "username" does not exist
+2025-04-13 23:28:35.688 CDT [43234] FATAL:  role "username" does not exist
+2025-04-13 23:29:08.218 CDT [43332] FATAL:  role "postgres" does not exist
+2025-04-13 23:32:07.302 CDT [43812] FATAL:  database "charlesbridgersiv" does not exist
+2025-04-13 23:32:46.990 CDT [43913] FATAL:  role "postgres" does not exist
+2025-04-13 23:32:54.914 CDT [44014] FATAL:  database "charlesbridgersiv" does not exist
+2025-04-13 23:35:54.500 CDT [44294] FATAL:  role "SeaForeEx" does not exist
+2025-04-13 23:35:59.365 CDT [44397] FATAL:  role "username" does not exist
+2025-04-13 23:39:38.366 CDT [44788] FATAL:  role "username" does not exist
+2025-04-13 23:39:38.367 CDT [44789] FATAL:  role "username" does not exist
+2025-04-13 23:40:26.455 CDT [44906] FATAL:  role "postgres" does not exist
+2025-04-13 23:40:51.039 CDT [45013] WARNING:  no privileges were granted for "mydb"
+2025-04-13 23:40:51.040 CDT [45013] WARNING:  no privileges were granted for "public"
+2025-04-13 23:41:34.633 CDT [45347] FATAL:  role "username" does not exist
+2025-04-13 23:41:34.635 CDT [45348] FATAL:  role "username" does not exist
+2025-04-13 23:43:15.234 CDT [45478] ERROR:  syntax error at or near "psql" at character 1
+2025-04-13 23:43:15.234 CDT [45478] STATEMENT:  psql -U postgres -h localhost -d postgres
+	GRANT CONNECT ON DATABASE mydb TO "SeaForeEx";
+2025-04-13 23:43:15.235 CDT [45478] WARNING:  no privileges were granted for "public"
+2025-04-13 23:43:27.399 CDT [45478] WARNING:  no privileges were granted for "mydb"
+2025-04-13 23:43:27.400 CDT [45478] WARNING:  no privileges were granted for "public"
+2025-04-13 23:45:33.125 CDT [45478] ERROR:  permission denied to drop role
+2025-04-13 23:45:33.125 CDT [45478] STATEMENT:  DROP ROLE IF EXISTS "SeaForeEx";
+2025-04-13 23:45:33.126 CDT [45478] ERROR:  permission denied to drop role
+2025-04-13 23:45:33.126 CDT [45478] STATEMENT:  DROP ROLE IF EXISTS seaforeex;
+2025-04-13 23:46:48.271 CDT [45688] FATAL:  role "postgres" does not exist
+2025-04-13 23:47:18.071 CDT [45805] ERROR:  role "SeaForeEx" cannot be dropped because some objects depend on it
+2025-04-13 23:47:18.071 CDT [45805] DETAIL:  privileges for database mydb
+2025-04-13 23:47:18.071 CDT [45805] STATEMENT:  DROP ROLE IF EXISTS "SeaForeEx";
+2025-04-13 23:47:18.072 CDT [45805] ERROR:  role "seaforeex" cannot be dropped because some objects depend on it
+2025-04-13 23:47:18.072 CDT [45805] DETAIL:  privileges for database mydb
+2025-04-13 23:47:18.072 CDT [45805] STATEMENT:  DROP ROLE IF EXISTS seaforeex;
+2025-04-13 23:49:08.210 CDT [46078] LOG:  could not receive data from client: Connection reset by peer
+2025-04-13 23:49:08.220 CDT [46080] ERROR:  relation "_prisma_migrations" does not exist at character 126
+2025-04-13 23:49:08.220 CDT [46080] STATEMENT:  SELECT "id", "checksum", "finished_at", "migration_name", "logs", "rolled_back_at", "started_at", "applied_steps_count" FROM "_prisma_migrations" ORDER BY "started_at" ASC
+2025-04-13 23:49:08.481 CDT [46082] FATAL:  terminating connection due to administrator command
+2025-04-13 23:49:08.656 CDT [46085] FATAL:  terminating connection due to administrator command
+2025-04-13 23:49:08.819 CDT [46086] FATAL:  terminating connection due to administrator command
+2025-04-13 23:51:09.134 CDT [46439] LOG:  invalid length of startup packet
+2025-04-13 23:51:10.194 CDT [46440] LOG:  invalid length of startup packet
+2025-04-13 23:51:10.196 CDT [46441] LOG:  invalid length of startup packet
+2025-04-13 23:51:10.199 CDT [46444] LOG:  invalid length of startup packet
+2025-04-13 23:51:15.215 CDT [46449] LOG:  invalid length of startup packet
+2025-04-14 00:02:03.552 CDT [46856] LOG:  invalid length of startup packet
+2025-04-14 00:02:04.607 CDT [46857] LOG:  invalid length of startup packet
+2025-04-14 00:02:04.610 CDT [46860] LOG:  invalid length of startup packet
+2025-04-14 09:57:18.207 CDT [48704] LOG:  could not receive data from client: Connection reset by peer
+2025-04-14 09:57:18.319 CDT [48707] FATAL:  terminating connection due to administrator command
+2025-04-14 09:57:18.538 CDT [48708] FATAL:  terminating connection due to administrator command
+2025-04-14 09:57:18.706 CDT [48711] FATAL:  terminating connection due to administrator command
+2025-04-14 09:57:18.880 CDT [48712] FATAL:  terminating connection due to administrator command
+2025-04-14 10:02:13.551 CDT [49260] LOG:  could not receive data from client: Connection reset by peer
+2025-04-14 10:02:13.833 CDT [49264] FATAL:  terminating connection due to administrator command
+2025-04-14 10:02:14.007 CDT [49265] FATAL:  terminating connection due to administrator command
+2025-04-14 10:02:14.183 CDT [49268] FATAL:  terminating connection due to administrator command
+2025-04-14 10:11:48.016 CDT [49928] LOG:  could not receive data from client: Connection reset by peer
+2025-04-14 10:11:48.301 CDT [49932] FATAL:  terminating connection due to administrator command
+2025-04-14 10:11:48.479 CDT [49935] FATAL:  terminating connection due to administrator command
+2025-04-14 10:11:48.654 CDT [49936] FATAL:  terminating connection due to administrator command
