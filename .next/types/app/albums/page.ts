@@ -1,4 +1,4 @@
-// File: /Users/charlesbridgers/fun-projects/lyrics-lyrics-lyrics/app/albums/page.tsx
+// File: /Users/charlesbridgersiv/Projects/lyrics-lyrics-lyrics/app/albums/page.tsx
 import * as entry from '../../../../app/albums/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
