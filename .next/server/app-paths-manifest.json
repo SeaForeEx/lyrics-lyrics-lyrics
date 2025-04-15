@@ -1,10 +1,7 @@
 {
-  "/api/albums/[id]/route": "app/api/albums/[id]/route.js",
-  "/api/artists/[id]/albums/route": "app/api/artists/[id]/albums/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/api/artists/route": "app/api/artists/route.js",
-  "/page": "app/page.js",
-  "/albums/[id]/page": "app/albums/[id]/page.js",
-  "/artists/[id]/page": "app/artists/[id]/page.js",
+  "/api/artists/[id]/route": "app/api/artists/[id]/route.js",
   "/artists/page": "app/artists/page.js",
-  "/albums/page": "app/albums/page.js"
+  "/artists/[id]/page": "app/artists/[id]/page.js"
 }

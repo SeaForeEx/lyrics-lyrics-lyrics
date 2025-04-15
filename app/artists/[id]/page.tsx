@@ -12,7 +12,7 @@ const Artist = () => {
   useEffect(() => {
     const fetchArtistAlbums = async () => {
       if (!params?.id) return; // Ensure params.id exists
-      const response = await fetch(`/api/artists/${params.id}/albums`);
+      const response = await fetch(`/api/artists/${params.id}`);
       const data = await response.json();
       setAlbums(data.albums);
       setArtistName(data.artistName);
