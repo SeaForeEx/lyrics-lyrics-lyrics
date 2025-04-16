@@ -1,7 +1,6 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/api/artists/route": "app/api/artists/route.js",
-  "/api/artists/[id]/route": "app/api/artists/[id]/route.js",
+  "/albums/page": "app/albums/page.js",
   "/artists/page": "app/artists/page.js",
-  "/artists/[id]/page": "app/artists/[id]/page.js"
+  "/albums/[id]/page": "app/albums/[id]/page.js",
+  "/page": "app/page.js"
 }

@@ -26,8 +26,6 @@ const Album = () => {
     fetchAlbumDetails();
   }, [params?.id]);
 
-  console.log(album?.image);
-
   if (!album) {
     return <p>Loading...</p>;
   }

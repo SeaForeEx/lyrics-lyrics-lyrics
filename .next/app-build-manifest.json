@@ -1,15 +1,30 @@
 {
   "pages": {
-    "/api/albums/route": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/api/albums/route.js"
-    ],
     "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
+    ],
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/albums/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/albums/page.js"
+    ],
+    "/api/albums/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/albums/route.js"
+    ],
+    "/api/artists/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/artists/route.js"
     ],
     "/artists/page": [
       "static/chunks/webpack.js",
@@ -21,30 +36,20 @@
       "static/chunks/main-app.js",
       "static/chunks/app/artists/[id]/page.js"
     ],
-    "/api/albums/[id]/route": [
+    "/api/artists/[id]/route": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/api/albums/[id]/route.js"
+      "static/chunks/app/api/artists/[id]/route.js"
     ],
     "/albums/[id]/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/albums/[id]/page.js"
     ],
-    "/api/artists/[id]/route": [
+    "/api/albums/[id]/route": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/api/artists/[id]/route.js"
-    ],
-    "/api/artists/route": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/api/artists/route.js"
-    ],
-    "/_not-found/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
+      "static/chunks/app/api/albums/[id]/route.js"
     ]
   }
 }
