@@ -18,9 +18,9 @@ export async function POST(req: Request) {
     const { title, artistId, review, image } = await req.json();
 
     // Validate required fields
-    if (!title || !artistId) {
+    if (!title || !artistId || !review) {
       return NextResponse.json(
-        { error: "Title and artistId are required" },
+        { error: "Title, artistId, and review are required" },
         { status: 400 }
       );
     }
@@ -30,8 +30,8 @@ export async function POST(req: Request) {
       data: {
         title,
         artistId,
-        review: review || null, // Optional field
-        image: image || null,   // Optional field
+        review: review,
+        image: image || null,
       },
     });
 
