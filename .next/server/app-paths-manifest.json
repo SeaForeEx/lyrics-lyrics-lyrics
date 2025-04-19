@@ -1,6 +1,7 @@
 {
-  "/albums/page": "app/albums/page.js",
+  "/api/albums/[id]/route": "app/api/albums/[id]/route.js",
   "/artists/page": "app/artists/page.js",
-  "/albums/[id]/page": "app/albums/[id]/page.js",
-  "/page": "app/page.js"
+  "/artists/[id]/page": "app/artists/[id]/page.js",
+  "/albums/page": "app/albums/page.js",
+  "/albums/[id]/page": "app/albums/[id]/page.js"
 }
